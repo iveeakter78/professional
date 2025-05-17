@@ -1,6 +1,9 @@
 @media(min-width:380px) and (max-width:576px){
-    .navbar-toggler {
+   .navbar-toggler {
 	border: 2px solid #fff;
+	width: 15%;
+	margin-right: 10px;
+	padding-right: 0px !important;
 }
 .navbar i{
      font-size: 28px;
@@ -70,6 +73,9 @@
 @media(min-width:575px) and (max-width:767px){
  .navbar-toggler {
 	border: 2px solid #fff;
+	width: 15%;
+	margin-right: 10px;
+	padding-right: 0px !important;
 }
 .navbar i{
      font-size: 28px;
@@ -138,6 +144,9 @@
 @media(min-width:768px) and (max-width:991px){
     .navbar-toggler {
 	border: 2px solid #fff;
+	width: 15%;
+	margin-right: 10px;
+	padding-right: 0px !important;
 }
 .navbar i{
      font-size: 28px;
